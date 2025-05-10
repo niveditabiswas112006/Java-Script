@@ -1,3 +1,3 @@
 # Java-Script
 JAVA PRACTICE 🕰️ CODE 👩🏼‍💻 AND DELETE 🗑️
-<img width="1470" alt="Screenshot 2025-05-10 at 11 12 11 PM" src="https://github.com/user-attachments/assets/8c9a1a5b-53ac-469f-a14d-e8e621b59813" />
+<img width="1470" alt="Screenshot 2025-05-10 at 11 47 39 PM" src="https://github.com/user-attachments/assets/4d922e4c-c1ee-4656-8533-b4fa2002fd66" />
